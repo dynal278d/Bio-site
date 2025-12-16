@@ -1,0 +1,13 @@
+<svg width="22" height="22" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="crownGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFA500;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M5 16L3 10L5.5 12L8 8L12 12L16 8L18.5 12L21 10L19 16H5Z" fill="url(#crownGradient)" stroke="#B8860B" stroke-width="0.5"/>
+  <circle cx="8" cy="10" r="1" fill="#FF6B6B"/>
+  <circle cx="12" cy="9" r="1.2" fill="#FF6B6B"/>
+  <circle cx="16" cy="10" r="1" fill="#FF6B6B"/>
+  <rect x="5" y="16" width="14" height="2" fill="url(#crownGradient)" stroke="#B8860B" stroke-width="0.5"/>
+</svg>
